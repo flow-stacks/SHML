@@ -1,5 +1,10 @@
 # SHML (SHell Markup Language) C library
 
+**tested on**
+* Arch Linux (GCC and TCC compilers)
+* Windows (GCC compiler)
+
+
 ## INTRO
 
 the purpose of this C library is automatisation
