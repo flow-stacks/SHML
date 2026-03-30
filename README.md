@@ -10,8 +10,6 @@ the functionality is big
 * C99 or later (GCC or TCC recommendet)
 * standart C libraries
 
----
-
 ## ABI
 
 ### void Cleanup()
@@ -50,8 +48,6 @@ use it to wrap the text using the tag
 > `WrapTag("print(15)". "py")`
 > (id = "python -c 'print(15)'")
 
----
-
 ## SYNTAX
 
 the syntax is like a Standart Markup Language
@@ -81,5 +77,3 @@ would do: wrap the input between **<tagename>** and **</tagename>**
 > `<py>print(15)</py>`
 
 your shell should print 15 if you have python installed
-
----
